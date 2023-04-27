@@ -8,6 +8,7 @@ const BlockClass = require('./02_index.js')
     // js 는 생략 가능
 
 console.log(BlockClass);
+    // ❓❓❓ 이걸 어떻게 실행시키지 ❓❓❓
     // js 가 달라. 
     // html 에서 js 2 를 읽고, js3 를 읽으면 된다. 
 

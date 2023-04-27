@@ -25,7 +25,7 @@
         - '개발 생산성 향상'
 
 ### v8 javascript
-    - chrome vs javascript 엔진으로 '⭐build⭐' 함.
+    - chrome v8 javascript 엔진으로 '⭐build⭐' 함.
     - 빌드된 '서버 측 자바스크립트' '⭐runtime 환경⭐'
     - node.js 로 작성한 것과, 브라우저는 '런타임 환경' 이 다름. 
         - 즉, 코드를 작성하고, 돌아가는 공간이 다름. 
